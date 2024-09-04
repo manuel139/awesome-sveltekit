@@ -968,11 +968,8 @@
 
 ## 🎉 Suggestions Welcome
 
-
-
 1. **open source**: While a site with private code can give design and feature ideas, there's little educational value if you can't inspect how it was made.
 1. **novel**: Not just another blog or todo app. Ideally, some application or technology not already covered in this collection.
 1. **popular**: At least 50 stars on GitHub or reasonable expectation to reach that number soon.
-
 
 A good place to discover influential Svelte projects (not necessarily SvelteKit) is [GitHub Trending](https://github.com/trending/svelte?since=monthly). If anything on that list stands out to you but is missing here, please add it!
